@@ -1,3 +1,1 @@
-# ForeverYoung
-Minecraft Mod
 # MinecartTweaks
