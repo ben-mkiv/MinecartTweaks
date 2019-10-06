@@ -1,0 +1,15 @@
+modLoader="javafml" #mandatory
+loaderVersion="[24,)" #mandatory (24 is current forge version)
+issueTrackerURL="http://github.com/ben_mkiv/minecarttweaks/issues" #optional
+displayURL="https://minecraft.curseforge.com/projects/minecarttweaks" #optional
+#logoFile="minecarttweaks.png" #optional
+credits="ben_mkiv (code), luni (for the inspiration to create this mod)" #optional
+authors="ben_mkiv" #optional
+[[mods]] #mandatory
+modId="minecarttweaks" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="MinecartTweaks" #mandatory
+#updateJSONURL="" #optional
+# The description text for the mod (multi line!) (#mandatory)
+description='''
+various tweaks for vanilla minecarts'''
